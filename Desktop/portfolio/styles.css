@@ -1,0 +1,71 @@
+body{
+    background-image: linear-gradient(to left,rgb(182, 173, 144),rgb(164, 172, 134),rgb(194, 197, 170));
+    color: rgb(8, 28, 21);
+.heading{
+    font-size: 50pt;
+    font-family: cursive;
+}
+.aboutme{
+    font-size: 20pt;
+    font-family: serif;
+}
+.basecamp{
+    font-size: 50pt;
+    font-family: cursive;
+
+}
+.base{
+    font-family: serif;
+    font-size: 20pt;
+}
+.picAb1{
+    height: 180px;
+    position: absolute;top:10px;
+    position: absolute;right:10px;
+}
+.Skill_heading{
+    font-size: 50pt;
+    font-family: cursive;
+}
+.basecamp-img{
+    height: 200px;
+    position: absolute;right:100px;
+    position: absolute;top:520px;
+}
+
+}
+.back-button{
+    position: absolute;top:0px;
+    position: absolute;left:0px;
+    color: blue;
+}
+.css-logo{
+    height: 100px;
+}
+.python-log{
+    height: 100px;
+}
+.html-log{
+    height: 100px;
+}
+.java-log{
+    height: 100px;
+    width: 100px;
+}
+.javascript-log{
+    height:100px;
+}
+.c#-log{
+    height: 100px;
+}
+.django-log{
+    height: 100px;
+}
+.sql-log{
+    height: 100px;
+}
+
+
+.spring-log{
+    height: 100px;
+}
